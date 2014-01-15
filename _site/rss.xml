@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2014-01-15T22:08:00+00:00</lastBuildDate>
-        <pubDate>2014-01-15T22:08:00+00:00</pubDate>
+        <title>Dans Age of Empire Blog</title>
+        <description>Dans Age of Empire Blog - Dan Malone</description>
+        <link>http://danm72.github.io</link>
+        <link>http://danm72.github.io</link>
+        <lastBuildDate>2014-01-15T22:49:13+00:00</lastBuildDate>
+        <pubDate>2014-01-15T22:49:13+00:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -22,8 +22,8 @@
 &lt;span class=&#39;c1&#39;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</description>
-                <link>http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</link>
-                <guid>http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</guid>
+                <link>http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</link>
+                <guid>http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</guid>
                 <pubDate>2014-01-15T21:10:27Z</pubDate>
         </item>
 
@@ -64,52 +64,9 @@ Look, I know I&#39;ve been raging a fare bit but I seriously can&#39;t deal with
 &lt;/ul&gt;
 These are some of my biggest gripes so far, the development environment is SO much better than Android that I just can&#39;t abandon this maybe jailbreaking will allow me to find the balance I so sorely want but stock so far has been sad.
 </description>
-                <link>http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</link>
-                <guid>http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</guid>
+                <link>http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</link>
+                <guid>http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</guid>
                 <pubDate>2014-01-05T00:00:00+00:00</pubDate>
-        </item>
-
-        <item>
-                <title>Blog</title>
-                <description>&lt;h1&gt;My Blog posts&lt;/h1&gt;
-&lt;h2&gt;&lt;/h2&gt;
-Apple, trying my patience.
-
-&lt;a title=&quot;My Transition from Android to iPhone&quot; href=&quot;http://blog.stardock.eu/my-transition-from-android-to-iphone/&quot;&gt;http://blog.stardock.eu/my-transition-from-android-to-iphone/&lt;/a&gt;
-</description>
-                <link>http://username.github.io/2014/01/05/blog</link>
-                <guid>http://username.github.io/2014/01/05/blog</guid>
-                <pubDate>2014-01-05T00:00:00+00:00</pubDate>
-        </item>
-
-        <item>
-                <title>Home</title>
-                <description>Hey guys, this is my Fourth year blog.
-
-I&#39;m aiming to create an iOS port of Age of Empires - Crazy huge I know its unlikely to hit full scope but theres something alluring about attacking a huge project.
-
-My reasoning behind remaking this game is: I want to justify mobile as a decent platform for modern gaming, RTS and RPGs are ideal for this platform but console and PC is still the main platform. I decided that using a game that is already considered great and adapting it to work well for mobile is the best way to justify the platform, HCI is everything.
-</description>
-                <link>http://username.github.io/2013/12/23/home</link>
-                <guid>http://username.github.io/2013/12/23/home</guid>
-                <pubDate>2013-12-23T00:00:00+00:00</pubDate>
-        </item>
-
-        <item>
-                <title>Contact</title>
-                <description>[contact-form to=&#39;danmalone123@gmail.com&#39; subject=&#39;Feedback&#39;][contact-field label=&#39;Name&#39; type=&#39;name&#39; required=&#39;1&#39;/][contact-field label=&#39;Email&#39; type=&#39;email&#39; required=&#39;1&#39;/][contact-field label=&#39;Comment&#39; type=&#39;textarea&#39; required=&#39;1&#39;/][/contact-form]
-</description>
-                <link>http://username.github.io/2013/12/23/contact</link>
-                <guid>http://username.github.io/2013/12/23/contact</guid>
-                <pubDate>2013-12-23T00:00:00+00:00</pubDate>
-        </item>
-
-        <item>
-                <title>About</title>
-                <description></description>
-                <link>http://username.github.io/2013/12/23/about</link>
-                <guid>http://username.github.io/2013/12/23/about</guid>
-                <pubDate>2013-12-23T00:00:00+00:00</pubDate>
         </item>
 
         <item>
@@ -327,8 +284,8 @@ EMAIL  &lt;span style=&quot;line-height: 1.5em;&quot;&gt;Daniel.malone9@mail.dc
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-                <link>http://username.github.io/2013/12/22/project-proposal</link>
-                <guid>http://username.github.io/2013/12/22/project-proposal</guid>
+                <link>http://danm72.github.io/2013/12/22/project-proposal</link>
+                <guid>http://danm72.github.io/2013/12/22/project-proposal</guid>
                 <pubDate>2013-12-22T00:00:00+00:00</pubDate>
         </item>
 
@@ -949,8 +906,8 @@ MacBook Pro, OSX Mountain Lion
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-                <link>http://username.github.io/2013/12/22/functional-spec</link>
-                <guid>http://username.github.io/2013/12/22/functional-spec</guid>
+                <link>http://danm72.github.io/2013/12/22/functional-spec</link>
+                <guid>http://danm72.github.io/2013/12/22/functional-spec</guid>
                 <pubDate>2013-12-22T00:00:00+00:00</pubDate>
         </item>
 
@@ -1270,8 +1227,8 @@ tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://danm72.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://danm72.github.io/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+00:00</pubDate>
         </item>
 

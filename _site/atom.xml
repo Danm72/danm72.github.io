@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-01-15T22:08:00+00:00</updated>
- <id>http://username.github.io</id>
+ <title>Dans Age of Empire Blog</title>
+ <link href="http://danm72.github.io/" rel="self"/>
+ <link href="http://danm72.github.io"/>
+ <updated>2014-01-15T22:49:13+00:00</updated>
+ <id>http://danm72.github.io</id>
  <author>
-   <name>Name Lastname</name>
-   <email>blah@email.test</email>
+   <name>Dan Malone</name>
+   <email>danmalone123@gmail.com</email>
  </author>
 
  
  <entry>
    <title>Welcome to Jekyll!</title>
-   <link href="http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll"/>
+   <link href="http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll"/>
    <updated>2014-01-15T21:10:27Z</updated>
-   <id>http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</id>
+   <id>http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</id>
    <content type="html">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -31,9 +31,9 @@
  
  <entry>
    <title>My Transition from Android to iPhone</title>
-   <link href="http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone"/>
+   <link href="http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone"/>
    <updated>2014-01-05T00:00:00+00:00</updated>
-   <id>http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</id>
+   <id>http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</id>
    <content type="html">&lt;h1&gt;My Transition&lt;/h1&gt;
 Hey Guys, so I guess this will be my first blog post (wooooo!), I wanted to put down some thoughts I&#39;ve been having since moving from my Samsung Galaxy S3(i9300) to an iPhone 4.
 &lt;h2&gt;Build Quality&lt;/h2&gt;
@@ -72,53 +72,10 @@ These are some of my biggest gripes so far, the development environment is SO mu
  </entry>
  
  <entry>
-   <title>Blog</title>
-   <link href="http://username.github.io/2014/01/05/blog"/>
-   <updated>2014-01-05T00:00:00+00:00</updated>
-   <id>http://username.github.io/2014/01/05/blog</id>
-   <content type="html">&lt;h1&gt;My Blog posts&lt;/h1&gt;
-&lt;h2&gt;&lt;/h2&gt;
-Apple, trying my patience.
-
-&lt;a title=&quot;My Transition from Android to iPhone&quot; href=&quot;http://blog.stardock.eu/my-transition-from-android-to-iphone/&quot;&gt;http://blog.stardock.eu/my-transition-from-android-to-iphone/&lt;/a&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Home</title>
-   <link href="http://username.github.io/2013/12/23/home"/>
-   <updated>2013-12-23T00:00:00+00:00</updated>
-   <id>http://username.github.io/2013/12/23/home</id>
-   <content type="html">Hey guys, this is my Fourth year blog.
-
-I&#39;m aiming to create an iOS port of Age of Empires - Crazy huge I know its unlikely to hit full scope but theres something alluring about attacking a huge project.
-
-My reasoning behind remaking this game is: I want to justify mobile as a decent platform for modern gaming, RTS and RPGs are ideal for this platform but console and PC is still the main platform. I decided that using a game that is already considered great and adapting it to work well for mobile is the best way to justify the platform, HCI is everything.
-</content>
- </entry>
- 
- <entry>
-   <title>Contact</title>
-   <link href="http://username.github.io/2013/12/23/contact"/>
-   <updated>2013-12-23T00:00:00+00:00</updated>
-   <id>http://username.github.io/2013/12/23/contact</id>
-   <content type="html">[contact-form to=&#39;danmalone123@gmail.com&#39; subject=&#39;Feedback&#39;][contact-field label=&#39;Name&#39; type=&#39;name&#39; required=&#39;1&#39;/][contact-field label=&#39;Email&#39; type=&#39;email&#39; required=&#39;1&#39;/][contact-field label=&#39;Comment&#39; type=&#39;textarea&#39; required=&#39;1&#39;/][/contact-form]
-</content>
- </entry>
- 
- <entry>
-   <title>About</title>
-   <link href="http://username.github.io/2013/12/23/about"/>
-   <updated>2013-12-23T00:00:00+00:00</updated>
-   <id>http://username.github.io/2013/12/23/about</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
    <title>Project Proposal</title>
-   <link href="http://username.github.io/2013/12/22/project-proposal"/>
+   <link href="http://danm72.github.io/2013/12/22/project-proposal"/>
    <updated>2013-12-22T00:00:00+00:00</updated>
-   <id>http://username.github.io/2013/12/22/project-proposal</id>
+   <id>http://danm72.github.io/2013/12/22/project-proposal</id>
    <content type="html">&lt;div title=&quot;Page 1&quot;&gt;
 &lt;div&gt;
 &lt;div&gt;
@@ -336,9 +293,9 @@ EMAIL  &lt;span style=&quot;line-height: 1.5em;&quot;&gt;Daniel.malone9@mail.dc
  
  <entry>
    <title>Functional Spec</title>
-   <link href="http://username.github.io/2013/12/22/functional-spec"/>
+   <link href="http://danm72.github.io/2013/12/22/functional-spec"/>
    <updated>2013-12-22T00:00:00+00:00</updated>
-   <id>http://username.github.io/2013/12/22/functional-spec</id>
+   <id>http://danm72.github.io/2013/12/22/functional-spec</id>
    <content type="html">&lt;div&gt;
 &lt;div style=&quot;text-align: center;&quot; align=&quot;right&quot;&gt;
 
@@ -958,9 +915,9 @@ MacBook Pro, OSX Mountain Lion
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://danm72.github.io/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+00:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://danm72.github.io/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;

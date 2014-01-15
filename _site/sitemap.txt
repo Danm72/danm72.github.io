@@ -1,19 +1,15 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://danm72.github.io/archive.html
+http://danm72.github.io/atom.xml
+http://danm72.github.io/categories.html
+http://danm72.github.io/index.html
+http://danm72.github.io/pages.html
+http://danm72.github.io/rss.xml
+http://danm72.github.io/sitemap.txt
+http://danm72.github.io/tags.html
 
-http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll
-http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone
-http://username.github.io/2014/01/05/blog
-http://username.github.io/2013/12/23/home
-http://username.github.io/2013/12/23/contact
-http://username.github.io/2013/12/23/about
-http://username.github.io/2013/12/22/project-proposal
-http://username.github.io/2013/12/22/functional-spec
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll
+http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone
+http://danm72.github.io/2013/12/22/project-proposal
+http://danm72.github.io/2013/12/22/functional-spec
+http://danm72.github.io/lessons/2011/12/29/jekyll-introduction
