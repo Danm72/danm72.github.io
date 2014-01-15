@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Jekyll Bootstrap</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2014-01-15T22:08:00+00:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Name Lastname</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to Jekyll!</title>
+   <link href="http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll"/>
+   <updated>2014-01-15T21:10:27Z</updated>
+   <id>http://username.github.io/jekyll/update/2014/01/15/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;div class=&#39;highlight&#39;&gt;&lt;pre&gt;&lt;code class=&#39;ruby&#39;&gt;&lt;span class=&#39;k&#39;&gt;def&lt;/span&gt; &lt;span class=&#39;nf&#39;&gt;print_hi&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;(&lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;name&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;)&lt;/span&gt;
+  &lt;span class=&#39;nb&#39;&gt;puts&lt;/span&gt; &lt;span class=&#39;s2&#39;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&#39;si&#39;&gt;#{&lt;/span&gt;&lt;span class=&#39;nb&#39;&gt;name&lt;/span&gt;&lt;span class=&#39;si&#39;&gt;}&lt;/span&gt;&lt;span class=&#39;s2&#39;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&#39;k&#39;&gt;end&lt;/span&gt;
+&lt;span class=&#39;n&#39;&gt;print_hi&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;(&lt;/span&gt;&lt;span class=&#39;s1&#39;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&#39;p&#39;&gt;)&lt;/span&gt;
+&lt;span class=&#39;c1&#39;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>My Transition from Android to iPhone</title>
+   <link href="http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone"/>
+   <updated>2014-01-05T00:00:00+00:00</updated>
+   <id>http://username.github.io/blog/2014/01/05/my-transition-from-android-to-iphone</id>
+   <content type="html">&lt;h1&gt;My Transition&lt;/h1&gt;
+Hey Guys, so I guess this will be my first blog post (wooooo!), I wanted to put down some thoughts I&#39;ve been having since moving from my Samsung Galaxy S3(i9300) to an iPhone 4.
+&lt;h2&gt;Build Quality&lt;/h2&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;My first thought with both phones in hand is that the build quality of the iPhone feels a lot nicer than the Galaxy, the iPhone is completely metal and just feels a lot more substantial, whereas the Galaxy feels a bit fragile and plastic sort of like a toy than an expensive device.&lt;/p&gt;
+
+&lt;h2&gt;Keyboard&lt;/h2&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;My second thought, now that I&#39;ve put a sim in and powered on the device is &#39;lets browse&#39;; this is where I hit my first snag. The keyboard is god awful, the buttons are absolutely tiny and the most used punctuation buttons are on another screen which is very annoying. I usually use SwiftKey on my android phone, I&#39;m not sure of my WPM(words per minute) with SwiftKey vs this key but I can tell the ease of typing and the speed has drastically been reduced. (Swiftkey is a swipe keyboard, it allows you to swipe your finger from one letter to another without removing your finger from the phone). Don&#39;t even get me started about the predictive text, if you type a word say &#39;swype&#39; instead of &#39;swipe&#39; it&#39;ll most likely auto correct to &#39;swipe&#39; unless you click the word &#39;swype&#39;, this is normal BUT it doesn&#39;t store words you repeatedly use AND to click the word &#39;swype&#39; it is very close to the auto corrected word. I think this is aimed at praying mantis or some spindly fingered creatures, maybe I just have fat hands?&lt;/p&gt;
+
+&lt;h2&gt;App Store&lt;/h2&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;This. What the hell Apple? They have extremely severe standards about what is allowed be put on the app store, this would lead you to believe that only the best content makes the cut. BUT NO. I&#39;ve installed five apps, two of which were such under-performing ad-bloated abominations that they were summarily executed and banished from my phone.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Moving on...
+I searched the market for &#39;Facebook&#39;, first result but then comes the torrent of obviously placed items, &#39;Instagram, Twitter&#39; etc... thats a little annoying, when you alter search results it makes it that bit harder to find ACTUALLY related items.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;ANYWAY, onto the next irk, so the Facebook App seems to have a 3/5 star rating with only 130 reviews, I found this a little disquieting, is the iOS version worse than the Android version? Is my phone acting up and only pulling some reviews? I noticed then that a few of the other apps that my search returned didn&#39;t have any review visible, thats odd I thought. Take &#39;Facebook Camera&#39; for example &#39;no ratings&#39; but when I go into it there IS a rating 3/5 stars but its only from the one review AND no indication of how many times its been downloaded?!&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;TL:DR&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Apple holds a high standard for apps allowed on the store, I don&#39;t believe this to be well enforced. I should jailbreak....&lt;/li&gt;
+	&lt;li&gt;The search results are clearly skewed by the bigger apps, Twitter, Facebook, Instagram etc...&lt;/li&gt;
+	&lt;li&gt;The rating system is GOD AWFUL, not always obvious before clicking into the app and incorrectly displayed once you do!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Navigation&lt;/h2&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Now this has really annoyed me, so Apple made the minimalistic design choice of using only ONE physical navigation button, this means that the apps need to pick up some slack to conform to the navigation standards apple use, BUT THEY DONT.
+A lot of apps use &#39;back&#39; buttons, &#39;cancel&#39; buttons and &#39;edit buttons&#39; to pick up the absence of a physical back button and menu button, this is fine except that these items aren&#39;t always placed in the same areas. The back button could be top left in one, a &#39;swipe&#39; gesture in another(i&#39;m looking at you safari), edit could be after clicking an item or long click on an item OR on another page altogether. RAWRGHGGH!!!&lt;/p&gt;
+
+&lt;h2&gt;Notifications&lt;/h2&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;If you wake my damn screen one more time, I will rain hellfire on you. I don&#39;t know why notifications does this but MY GOD.&lt;/p&gt;
+Look, I know I&#39;ve been raging a fare bit but I seriously can&#39;t deal with some of these things. The phone feels lovely, the animations and display can look great at times, its pretty fast and its VERY simple I think this phone is so simple that it actually forgets some people would want further options.
+&lt;ul&gt;
+	&lt;li&gt;I want to change keyboard type&lt;/li&gt;
+	&lt;li&gt;I want the choice to install my own apps&lt;/li&gt;
+	&lt;li&gt;I want to know my battery %&lt;/li&gt;
+	&lt;li&gt;I want to know ONSCREEN if i&#39;m muted, vibrating or on full ringer&lt;/li&gt;
+&lt;/ul&gt;
+These are some of my biggest gripes so far, the development environment is SO much better than Android that I just can&#39;t abandon this maybe jailbreaking will allow me to find the balance I so sorely want but stock so far has been sad.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blog</title>
+   <link href="http://username.github.io/2014/01/05/blog"/>
+   <updated>2014-01-05T00:00:00+00:00</updated>
+   <id>http://username.github.io/2014/01/05/blog</id>
+   <content type="html">&lt;h1&gt;My Blog posts&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+Apple, trying my patience.
+
+&lt;a title=&quot;My Transition from Android to iPhone&quot; href=&quot;http://blog.stardock.eu/my-transition-from-android-to-iphone/&quot;&gt;http://blog.stardock.eu/my-transition-from-android-to-iphone/&lt;/a&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Home</title>
+   <link href="http://username.github.io/2013/12/23/home"/>
+   <updated>2013-12-23T00:00:00+00:00</updated>
+   <id>http://username.github.io/2013/12/23/home</id>
+   <content type="html">Hey guys, this is my Fourth year blog.
+
+I&#39;m aiming to create an iOS port of Age of Empires - Crazy huge I know its unlikely to hit full scope but theres something alluring about attacking a huge project.
+
+My reasoning behind remaking this game is: I want to justify mobile as a decent platform for modern gaming, RTS and RPGs are ideal for this platform but console and PC is still the main platform. I decided that using a game that is already considered great and adapting it to work well for mobile is the best way to justify the platform, HCI is everything.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Contact</title>
+   <link href="http://username.github.io/2013/12/23/contact"/>
+   <updated>2013-12-23T00:00:00+00:00</updated>
+   <id>http://username.github.io/2013/12/23/contact</id>
+   <content type="html">[contact-form to=&#39;danmalone123@gmail.com&#39; subject=&#39;Feedback&#39;][contact-field label=&#39;Name&#39; type=&#39;name&#39; required=&#39;1&#39;/][contact-field label=&#39;Email&#39; type=&#39;email&#39; required=&#39;1&#39;/][contact-field label=&#39;Comment&#39; type=&#39;textarea&#39; required=&#39;1&#39;/][/contact-form]
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About</title>
+   <link href="http://username.github.io/2013/12/23/about"/>
+   <updated>2013-12-23T00:00:00+00:00</updated>
+   <id>http://username.github.io/2013/12/23/about</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Project Proposal</title>
+   <link href="http://username.github.io/2013/12/22/project-proposal"/>
+   <updated>2013-12-22T00:00:00+00:00</updated>
+   <id>http://username.github.io/2013/12/22/project-proposal</id>
+   <content type="html">&lt;div title=&quot;Page 1&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+11/11/2013
+
+Supervisor: Kevin Casey Student: Daniel Malone ID: 10375043
+&lt;h1 style=&quot;text-align: center;&quot;&gt;Project Proposal&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;blockquote&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;“If I have seen further it is by standing on the shoulders of giants.” - Bernard of Chartres&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;A Real Time Strategy Game on an iOS Device&lt;/h2&gt;
+&amp;nbsp;
+&lt;h3 style=&quot;text-align: left;&quot;&gt;General area covered by the project:&lt;/h3&gt;
+This project covers:
+&lt;ol&gt;
+	&lt;li&gt;Mobile applications&lt;/li&gt;
+	&lt;li&gt;Graphics&lt;/li&gt;
+	&lt;li&gt;HCI&lt;/li&gt;
+	&lt;li&gt;AI&lt;/li&gt;
+	&lt;li&gt;Persistence&lt;/li&gt;
+	&lt;li&gt;W eb services&lt;/li&gt;
+	&lt;li&gt;Gaming&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h3&gt;Description of the proposed project:&lt;/h3&gt;
+I intend to write a game for an iOS device, this game will take advantage of HCI features to make it comfortable on a mobile device. This project will utilize a web service to store state across devices, store high scores visible by other players, and allow playing against the same AI enemy.
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div title=&quot;Page 2&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Android&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I have spent the last two years primarily working with Android my thoughts are: there is a huge amount of boiler plate and up to recently there was no dedicated IDE (Android Studio is currently in beta) or stable dependency manager (Maven, Gradle etc....), creating layouts is XML hell and it is difficult to control communications between threads.
+This has pushed me to a change of platform; the grass looks far green in iOS land.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I do not intend to use Android in this project, this is a justification for my move to a new device set.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;IOS&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The iOS ecosystem seems to be a lot healthier, for example: the boilerplate for basic tasks like persistence is greatly reduced and persistence seems more flexible. The IDE xcode has a far more intuitive interface builder.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Most importantly of all: iOS works off Objective-C. I have spent a lot of time in the Java world, which doesn’t transfer too well to other languages. Objective-C would be a great way to gather generic C knowledge; which I could then apply to C and C++.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Controls&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I have spent a lot of time gaming on computers and mobile gaming doesn’t stand up by any means, I don’t believe mobiles lack power but I consider it more of a HCI issue. Controls are limited; the usual WASD controls aren’t present without onscreen buttons, I believe a swipe control system would allow an RTS system similar to ‘Command and Conquer’ or ‘Age of Empires’.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Graphics&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I have developed a game before using a pure OpenGL approach, so I feel I have already cultivated some skills there, I also intend to take ‘Computer Graphics’ next semester to solidify my knowledge in this section.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I intend to use an iOS graphics framework the ‘Sprite Framework’; Sprite Kit is a graphics rendering and animation infrastructure for Apple phones and desktops. This framework will hopefully expatiate the process of adding features to my application, at the moment this doesn’t allow for pure OpenGL but it is being added as a later feature.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;NodeJS/DART&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I intend to use NodeJS or DART to create a Web Service, to either store game state or a high score between players, I have used Grails before to create Web Services and websites.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I would like to gain further knowledge in JavaScript, Node.js is a platform built on Chrome&#39;s JavaScript runtime for easily building fast scalable web services; this is a technology I would like to have knowledge of also .&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;DART is a new language for scalable web app engineering, it is very similar to Java and compiles to JS; the compiled source is now out preforming hand written JS.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;REST&lt;/span&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div title=&quot;Page 3&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I have had to conform a lot recently to SOAP and other web services that regard no standards; this needs to end. The Grails API’ I have written have been RESTful, and I intend to have serialized RESTful endpoints for this projects web services.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;NoSQL&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I hope to use a NoSQL database; I have worked with SQL, Oracle and such and would like to broaden horizons. I have heard very good reports of the speed and maintainability of NoSQL, along with transactions, and table structure migration.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Artificial Intelligence&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;My third year project involved the implementation of a swarm intelligence example; I created an Android based Ant Colony Simulator. This first taste made me eager to creating a more involved system, I believe what I learnt with the Gatherer type of ant and Solider type will be somewhat similar to military and resource gathering units.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Testing&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Testing is under rated in our degree, I use a lot of unit tests in my java code to help me avoid tight coupling and good software practices... as well as the obvious benefits of having tests when editing code. I hope to continue this habit during this project.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;h3&gt;Achievements&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;This application is intended as a game.
+I hope to attract a user base of casual gamers.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;I hope to include the features listed below&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;GAME&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Save State locally&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Save State Remote&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Save Score or Vanity statistic&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Random Map Generation&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Justification:&lt;/p&gt;
+Choose difficulty Harvest Resources e.g. Trees, Place Buildings on the map rocks...
+
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;AI&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Create Unit e.g. soldier, gatherer...
+Move units in swiped direction Destroy enemy buildings Gather animation
+Attack enemy groups or units
+Grouped units move around obstacles and rejoin group&lt;/p&gt;
+
+&lt;div&gt;&lt;/div&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;font-size: 1em; line-height: 1.5em;&quot;&gt;Animation&lt;/span&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Select unit by circling&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Attack Animation&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Movement Animation&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Select group of units by circling&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+&lt;span style=&quot;line-height: 1.5em;&quot;&gt;I believe the application will be entertaining, I intend to either commercialize it or open source it at the end of the project. It will be fun for people comparing scores, for bus journeys and extending periods away from primary gaming devices.&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div title=&quot;Page 4&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+In the occasion of open sourcing it will make implementing similar features easier for future students.
+&lt;h3&gt;Programming language(s):&lt;/h3&gt;
+&lt;h4&gt;List the proposed language(s) to be used&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Objective C&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;JavaScript&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Bash
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Programming tools:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;List tools (compiler, database, web server, etc.) to be used&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;NoSQL – MongoDB or CouchDB&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;NodeJS – Backend service writing&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;DART – Backend service writing&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Typescript – Adds type and object orientation to JavaScript&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Express – A web framework for NodeJS to allow structured NodeJS projects&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;ARC – Memory management in iOS&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Tiled – For creating tile maps in games&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Sprite framework – For creating graphics and animations on iOS devices&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Webserver – Apache, this will be used to expose my web services&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Debian – I will host my NodeJS/DART and NoSQL DB on a Debian server, most likely on Rackspace or Amazons AWS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h3&gt;Learning Challenges:&lt;/h3&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;List the main new things (technologies, languages, tools, etc.) that you will have to learn:&lt;/h4&gt;
+&lt;ol&gt;
+	&lt;li&gt;Objective-C&lt;/li&gt;
+	&lt;li&gt;NodeJS/DART&lt;/li&gt;
+	&lt;li&gt;Express&lt;/li&gt;
+	&lt;li&gt;JavaScript&lt;/li&gt;
+	&lt;li&gt;Typescript&lt;/li&gt;
+	&lt;li&gt;MongoDB or CouchDB&lt;/li&gt;
+	&lt;li&gt;Tile and Graphic design&lt;/li&gt;
+	&lt;li&gt;Sprite Framework&lt;/li&gt;
+	&lt;li&gt;Path Finding Algorithms&lt;/li&gt;
+&lt;/ol&gt;
+Hardware / software platform:
+State the hardware and software platform for development.
+
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+EMAIL
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+DCU Daniel.malone9@mail.dcu.ie
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div title=&quot;Page 5&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+PROJECT PROPOSAL
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+
+1. Debian
+&lt;ol start=&quot;2&quot;&gt;
+	&lt;li&gt;iPad, iPhone&lt;/li&gt;
+	&lt;li&gt;MacBook Pro, OSX Mountain Lion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+
+EMAIL  &lt;span style=&quot;line-height: 1.5em;&quot;&gt;Daniel.malone9@mail.dcu.ie&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Functional Spec</title>
+   <link href="http://username.github.io/2013/12/22/functional-spec"/>
+   <updated>2013-12-22T00:00:00+00:00</updated>
+   <id>http://username.github.io/2013/12/22/functional-spec</id>
+   <content type="html">&lt;div&gt;
+&lt;div style=&quot;text-align: center;&quot; align=&quot;right&quot;&gt;
+
+&lt;span style=&quot;font-size: 2em; line-height: 1.5em;&quot;&gt;A Port of Age of Empires, for OSX and iOS devices&lt;/span&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt; &lt;/span&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1&gt;1. Introduction&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2&gt;1.1 Overview&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;I am going to develop a Real Time Strategy game for iOS and OSX devices with the possibility of expansion to further platforms such as Android. To this end I&#39;ve decided to port the PC game ‘Age of Empires: Age of Kings’. I want to justify the mobile platform for RTS games, to prove this platform I have decided to take a game that was great and prove its quality on mobile.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;I intend to rewrite this game through objective-C, I intend to work in an agile fashion with sprints and MVP adding core features and expanding to additional features as the project deadline allows. I intend to reuse game assets from the original game such as graphics and sounds, the reason for this reuse is: I would like to focus on usability and developing a gesture scheme for RTS on a mobile device. Game assets are easy to swap out allowing me to market this project with a different suit of non-copyright assets at a later stage.&lt;/p&gt;
+
+&lt;h3&gt;Real Time Strategy Computing Elements&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Real Time Strategy games interest me due to the diversity of computing elements.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;AI&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;RTS games use intelligent Algorithms for path finding, player automation and combat mechanics and teamwork; I am very interested in implementing these elements.&lt;/p&gt;
+
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Swarm AI&lt;/h5&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;This type of game takes elements from swarm AI with the added interaction of a human coordinator to direct the swarm towards a structured goal.&lt;/p&gt;
+
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Game Theory&lt;/h5&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Game Theory is a branch of mathematics concerned with the analysis of strategies for dealing with competitive situations where the outcome of a participant&#39;s choice of action depends critically on the actions of other participants. Game theory has been applied to contexts in war, business, and biology.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Game Board&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;This sort of game requires a ‘world’, this can be approached in several ways such as: a tiled hex-grid board.
+The world or board for this game can be displayed as:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;ol&gt;
+&lt;ol&gt;
+	&lt;li&gt;3D,&lt;/li&gt;
+	&lt;li&gt;2.5D/Isometric&lt;/li&gt;
+	&lt;li&gt; 2-D&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I am most interested in the Isometric approach due to my interest in games like Age of Empires and Command and Conquer.&lt;/p&gt;
+
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Human Computer Interaction&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;There is a lot of HCI in these games, well designed clear interfaces, intuitive feedback for actions, intelligent reward schemes, and immersive sounds. I believe HCI is what really sells a product and hooks a user. I want to prove the mobile platform as a good home for RTS through intelligent use of HCI.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Interface&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I believe that interface has been more of a barrier on mobile platforms than processing power.&lt;/p&gt;
+
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Background&lt;/h5&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Age of Empires 2 was released in 1999 for the PC; despite the age a decent port to mobile has yet to be created. The mobile platform is very powerful so far emulators exist for: PSP, PS2, Nintendo DS.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I believe a mobile platforms would be ideal for an RTS game in which gameplay is prioritized over graphics. I hope to overcome the absence of left; right and middle click operations with a combination of swipe gestures and multi touch gestures.&lt;/p&gt;
+
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Gestures&lt;/h5&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Swipe selections and multi touch gestures will allow for easy unit selections; selecting a group will be as easy as circling the units, Pinching to zoom, gesture commands to choose formation or unit types…&lt;/p&gt;
+
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Sliding windows&lt;/h5&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Removing clutter from the main screen will be key on small devices, using sliding windows will allow the user to view their army, resources and other non-critical information more with more detail.&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Sound, Visual cues and Rewards&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I believe that part of what makes games like ‘cut the rope’ and ‘Angry Birds’ successful is the depth of experience brought on by the sound effects and visuals such as visual and sound responses to success, rewards and positive reinforcement at a randomized percentage; the inconsistent rewards appeal to the gambler mind frame.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;- The Psychology of the Near Miss, R. L. Reid&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Psychology&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;A game in which the user becomes immersed and can pass hours without noticing is a good game, this is achieved by balancing task difficulties to user ability, if this balance is achieved a state coined as ‘cognitive flow’ occurs. This term was coined and explained by the psychologist Mihaly Csikszentmihalyi in the 1970s.&lt;/p&gt;
+
+&lt;ol style=&quot;padding-left: 30px;&quot;&gt;
+&lt;ol&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Extreme focus on a task.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;A sense of active control.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Merging of action and awareness.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Loss of self-awareness.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Distortion of the experience of time.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;The experience of the task being the only necessary justification for continuing it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;div&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;1.2 Business Context&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;I hope to appeal to a clientele with an interest in Games, particularly RTS games. I also hope to appeal to people interested in game design strategies as I intend to blog the development and strongly rely on good design techniques.&lt;/p&gt;
+
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Business Contexts: From the customers perspective&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The two obvious options for distribution of this application and charging are:&lt;/p&gt;
+
+&lt;ol style=&quot;padding-left: 60px;&quot;&gt;
+&lt;ol style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 60px;&quot;&gt;Outright purchase.&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 60px;&quot;&gt;Free downloads which will include in-app ads&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The existence of a free option will allow potential buyers to trial the game in a limited environment, a user that purchases a game after a trial is more likely to have a good experience than a user that buys and then decides they do not like the game.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Further revenue and experience can be generated through Micro Transactions, this will allow the user to purchase in game boosts and additional features such as:&lt;/p&gt;
+
+&lt;ol style=&quot;padding-left: 60px;&quot;&gt;
+&lt;ol style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 60px;&quot;&gt;Expansions&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 60px;&quot;&gt;Faster farming, better combat abilities, cheats&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Business Contexts: From the business owner’s perspective&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Micro transactions, this will fund future development and continue to bring in revenue after the original purchase.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The Apple App store gives an inexpensive distribution to a huge market across countless devices: phones, tablets and OSX machines.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;Depending on the ad placement ads could be included in the paid version as long as it doesn’t affect gameplay. However unpaid downloads would have less subtly placed ads as there was no original purchase and the revenue needs to be recovered for the download.&lt;/p&gt;
+
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;Similar Products&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3 style=&quot;padding-left: 90px;&quot;&gt;Age of Empires II: Age of Kings:&lt;i&gt; &lt;/i&gt;&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 120px;&quot;&gt;My project depends on re-use of game assets such as sounds and graphics from the original game&lt;/p&gt;
+&lt;p style=&quot;padding-left: 120px;&quot;&gt;My finished product should closely mirror the original game, though only game assets will have been reused, this allows me the freedom to exchange the game assets after the project to market my game without copyright dangers.
+&lt;i&gt;
+Released September 30, 1999,
+Re-released&lt;/i&gt; &lt;i&gt;April 9, 2013&lt;/i&gt;&lt;/p&gt;
+
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;1.3 Glossary&lt;/h2&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;ol&gt;
+&lt;ol&gt;
+	&lt;li&gt;Sprite: 2D image / animation that can be moved on-screen and manipulated as a single object.&lt;/li&gt;
+	&lt;li&gt;AOE: Age of Empires, an RTS game developed by Ensemble Studios, released in 1999 and re-released in 2013&lt;/li&gt;
+	&lt;li&gt;Texture: a skin or overlay for a vertex&lt;/li&gt;
+	&lt;li&gt;Game Asset: A suite of sounds, graphics or behaviors used for a game&lt;/li&gt;
+	&lt;li&gt;IOS: The operating system for Apples smartphone and table series&lt;/li&gt;
+	&lt;li&gt;OSX: The operating system for Apples desktop and laptop devices&lt;/li&gt;
+	&lt;li&gt;RTS: In an Real Time Strategy, as in other war-games, the participants position and maneuver units and structures under their control to secure areas of the map and/or destroy their opponents&#39; assets.&lt;/li&gt;
+	&lt;li&gt;MVP: Minimum Viable Product, this involves creating core functionality before adding high scope or additional features, it is used on tight deadline and lean startup projects.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+&lt;h1&gt;2. General Description&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;2.1 Product / System Functions&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Functionality:&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;The use of this game will follow four stages; first a game/match must be tweaked and created, then a map must be customized and created, the actual game to be played and then the victory state in which a goal state has been achieved. The user will be able to save their progress either to local storage or remote storage, based on the sprint this will different from Google game services to a remote API&lt;/p&gt;
+
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Stage One:&lt;/h4&gt;
+&lt;h4 style=&quot;padding-left: 60px;&quot;&gt;Set up the match&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;Choose Teams&lt;/li&gt;
+	&lt;li&gt;Allies&lt;/li&gt;
+	&lt;li&gt;Team Colours&lt;/li&gt;
+	&lt;li&gt;Choose Nation&lt;/li&gt;
+	&lt;li&gt;Define rules
+&lt;ul&gt;
+	&lt;li&gt;Resource limits&lt;/li&gt;
+	&lt;li&gt;Build times&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;Choose Enemy
+&lt;ul&gt;
+	&lt;li&gt;Number of enemies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;Alliances&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Stage Two:&lt;/h4&gt;
+&lt;h4 style=&quot;padding-left: 60px;&quot;&gt;Generate map or Choose Map&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 90px;&quot;&gt;The aim is to create dynamically generated worlds with randomly placed resources, tiles and players; this makes replaying interesting.&lt;/p&gt;
+
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li&gt;Choose the size of map
+&lt;ul&gt;
+	&lt;li&gt;Small, Medium, Large&lt;/li&gt;
+	&lt;li&gt;Choose Map type
+&lt;ul&gt;
+	&lt;li&gt;Islands&lt;/li&gt;
+	&lt;li&gt;Continents&lt;/li&gt;
+	&lt;li&gt;Random&lt;/li&gt;
+	&lt;li&gt;Generate a hex tile grid relevant to the chosen type
+The Hex grid will be the frame of reference for moving the sprites and placing textures such as:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Soil&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Water&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Trees&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Gold, Stone, Food&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;line-height: 1.5em;&quot;&gt;Disperse players at equal intervals within range of similar resources&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Stage Three: Game play&lt;/h4&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Gameplay is the truly vital element to the game, this contains the most functionality and&lt;/p&gt;
+
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Select unit
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Circle or tap unit/s, long press to begin selection&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Move Camera
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Swipe or drag to move in a direction&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Pinch to zoom&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Move Unit
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Tap destination to move&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Double tap to gather/attack&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Use Unit abilities
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Drag ability tab from right/left&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Gesture to use ability (Macro)&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Create buildings
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Create
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Choose from ability list or Macro&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Choose location
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Required resources&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Correct Tech Age&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Accessible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Repair
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Tap item to be repaired
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Accessible&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Resourced available&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Gather resource
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Stone&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Gold&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Food&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Wood&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Attack
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Animal&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Enemy&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Save State
+&lt;ul style=&quot;padding-left: 30px;&quot;&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Google Game services&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Remote API&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Time out&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Annihilation&lt;/li&gt;
+	&lt;li style=&quot;padding-left: 30px;&quot;&gt;Wonders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style=&quot;padding-left: 30px;&quot;&gt;Stage Four: Victory&lt;/h4&gt;
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;2.2 User Characteristics and Objectives&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Audience&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;This application will cater to users across several groups; the original game AOE was available for users of 10 years and up but primarily marketed at a more mature audience of RTS gamers.&lt;/p&gt;
+
+&lt;h3 style=&quot;padding-left: 30px;&quot;&gt;Play Style &amp;amp; Interface&lt;/h3&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;My aim is to create a user input system and user interface that will be clear to younger users while not feeling over simplified for the more hardcore gamers. RTS games tend to become extremely competitive with users using key bindings and macros to maximize their efficiency; I hope to create a gesture system similar to this macro system to allow hardcore gamers to optimize their play style.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;The use of Google Game Services or a remote API will lead to the ability to save state and retrieve it on another android device; this is safer than local storage and handy if the user has more than one device. This should appeal to dedicated players that move from on the go devices to tablet devices.&lt;/p&gt;
+
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;2.3 Operational Scenarios&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;The following are explanations for the different interactions a user will be able to perform when running the application:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;&lt;b&gt;1.    &lt;/b&gt;&lt;b&gt;Create a game&lt;/b&gt;
+&lt;b&gt;2.    &lt;/b&gt;&lt;b&gt;Create a map&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;3.    &lt;/b&gt;&lt;b&gt;Game play functions&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;padding-left: 30px;&quot;&gt;
+&lt;h2 style=&quot;padding-left: 30px;&quot;&gt;2.4 Constraints&lt;/h2&gt;
+&lt;/div&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;IOS: Devices and IOS versions&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Memory available per device&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Project must be completed by the June 2014&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;Design Patterns&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;RESTFUL Standards compliance with API&lt;/p&gt;
+
+&lt;h1&gt;3. Functional Requirements&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2&gt;3.1 MVP&lt;b&gt; &lt;/b&gt;– Minimum Viable Product&lt;/h2&gt;
+&lt;/div&gt;
+I intend to develop this project using Agile Methodologies and MVP, tying down core functionality before expanding to the next stage. This will leave me with a deliverable even if unexpected roadblocks are encountered.
+
+&lt;span style=&quot;text-decoration: underline;&quot;&gt; &lt;/span&gt;
+&lt;h3&gt;Sprint 1&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Basic GUI:
+&lt;ul&gt;
+	&lt;li&gt;Animated sprites&lt;/li&gt;
+	&lt;li&gt;Basic AI:
+&lt;ul&gt;
+	&lt;li&gt;Move&lt;/li&gt;
+	&lt;li&gt;Single Player&lt;/li&gt;
+	&lt;li&gt;Static World&lt;/li&gt;
+	&lt;li&gt;Basic User input:
+&lt;ul&gt;
+	&lt;li&gt;Tap unit&lt;/li&gt;
+	&lt;li&gt;Basic drag-able camera&lt;/li&gt;
+	&lt;li&gt;Basic Unit Stats
+&lt;ul&gt;
+	&lt;li&gt;Health, Damage&lt;/li&gt;
+	&lt;li&gt;Persistence: Google Game Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;
+&lt;h3&gt;Sprint 2&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;GUI:
+&lt;ul&gt;
+	&lt;li&gt;Add smoother digging and foraging, show units carrying resources, units decaying&lt;/li&gt;
+	&lt;li&gt;AI:
+&lt;ul&gt;
+	&lt;li&gt;Attack, gather&lt;/li&gt;
+	&lt;li&gt;Add more elaborate path choices, I intend to allow units to move around terrain, pick the shortest path to a resource&lt;/li&gt;
+	&lt;li&gt;User versus AI controlled enemy
+&lt;ul&gt;
+	&lt;li&gt;Allow the user to decide if there should be a completely automated enemy sharing the world. This will allow the soldier units to be used, along with trade and diplomacy menus. It will drain resources in the world twice as fast.&lt;/li&gt;
+	&lt;li&gt;Balanced unit stats&lt;/li&gt;
+	&lt;li&gt;Dynamic World Generation&lt;/li&gt;
+	&lt;li&gt;Randomly decide on the amount of wood, stone etc. to place and the location of the placements, keeping the random generation within fair a limit.&lt;/li&gt;
+	&lt;li&gt;Persistence: NodeJS Web service&lt;/li&gt;
+	&lt;li&gt;User input: Zoom, circle units&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;
+
+&amp;nbsp;
+&lt;div&gt;
+&lt;h2&gt;3.2 Interface&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3&gt;Description:&lt;/h3&gt;
+This is the interface the user will use to interact the game. This must be displayed properly on all acceptable devices. This encompasses features such as pinch zoom, drag camera, circle units and slide menus.
+&lt;h3&gt;Criticality: Vital&lt;/h3&gt;
+This is a vital component for our system as it is the front end of the application and the users only way to interface with the app. The real goal of this project is to make RTS more accessible, this goal above all is the most important for justifying RTS on mobile.
+&lt;h3&gt;Technical issues:&lt;/h3&gt;
+Screen size, processing power and platform can go from iPod Touch all the way to iMac Desktops, this app will need to make sure to take screen size into account when preforming actions, physical button placement also differs on devices and should be considered.
+&lt;h3&gt;Dependencies with other requirements:&lt;/h3&gt;
+Graphics
+&lt;h4&gt;OTHER&lt;/h4&gt;
+The performance of our application relies a great deal on whether or not the end-user’s device is suitable to run it.
+&lt;div&gt;
+&lt;h2&gt;3.3 Logic &amp;amp; Intelligence&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3&gt;Description:&lt;/h3&gt;
+This section deals with the game logic, the movement of units, combat, building this is section is very important for a good game.
+&lt;h3&gt;Criticality: Moderate&lt;/h3&gt;
+This section is important but the game is still playable will poor AI though the experience will be less enjoyable.
+&lt;h3&gt;Technical issues:&lt;/h3&gt;
+Porting the logic from the original game will be difficult without the original code to work off, this will be similar to black box testing in the way I will need to play the game and create and action and observe its results.
+&lt;h3&gt;Dependencies with other requirements:&lt;/h3&gt;
+Interface and Graphics
+&lt;div&gt;
+&lt;h2&gt;3.4 Graphics&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3&gt;Description:&lt;/h3&gt;
+This requirement differs from Interface in that it is directly responsible for the drawing of the tiles and sprites, this requirement details the setup of a grid of hexagons to cover the board, this allows for sprite movement in 6 directions and a good interlocking board. It is intended to draw unit sprites separate from the grid but to use the grid to store location and tile graphics.
+&lt;h3&gt;Criticality: Vital&lt;/h3&gt;
+This element is vital and comprises the visualization of all other work, without this element no other elements can be tested.
+&lt;h3&gt;Technical issues:&lt;/h3&gt;
+Screen size, processing power and platform can go from iPod Touch all the way to iMac Desktops, this app will need to have sprites capable of scaling.
+
+The application should not lag and needs to be well optimized in order to provide the end-user with the performance they expect; in other words if they have a low end phone it may experience lag despite our efforts, so it’s not our fault but none the less should be striven to avoid.
+&lt;h3&gt;Dependencies with other requirements:&lt;/h3&gt;
+None
+
+&amp;nbsp;
+
+&amp;nbsp;
+&lt;div&gt;
+&lt;h2&gt;3.5 Persistence&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3&gt;Description:&lt;/h3&gt;
+This section details the creation of a local and remote database to store game state if the match is paused, the intention is to implement a RESTful API using a MongoDB database and NodeJS backend but that will be seen in a later sprint such as Sprint 3.
+&lt;h3&gt;Criticality: Low&lt;/h3&gt;
+This is not a critical item but its inclusion would greatly increase player satisfaction, being able to continue games on different devices or to save a game and start a new one would be very helpful.
+&lt;h3&gt;Technical issues:&lt;/h3&gt;
+Implementing a full API takes a significant amount of time compared to the payoff of a simple file store, using third party API’ such as the Google Game Library allows speedier development but also enforces coding to their libraries removing a lot of wriggle room.
+&lt;h3&gt;Dependencies with other requirements:&lt;/h3&gt;
+This is dependent on all other elements since it is going to be saving their states e.g: saving unit layout and resources.
+&lt;h1&gt;4. System Architecture&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2&gt;4.1 System Structure Diagram&lt;/h2&gt;
+&lt;/div&gt;
+&lt;b&gt;&lt;i&gt;&lt;/i&gt;&lt;/b&gt;
+Fig 4.1 above is a diagram depicting the underlying structure of the application, there is a limited number of entries in the System Diagram due to the standalone nature of the game, outside modules are only used for persistence.
+
+The two entries seen here are the two options, implementing my own webservice with a NodeJS backend and MongoDB database or using the Google Game service to store a binary file, the beginning sprints will rely on the Google Game Service due to the ease of implementation.
+&lt;h1&gt;5. High-Level Design&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2&gt;Fig 5.1   Entity Relationship Diagram&lt;/h2&gt;
+&lt;/div&gt;
+&amp;nbsp;
+
+&lt;b&gt;         &lt;/b&gt;
+
+&amp;nbsp;
+&lt;h1&gt;6. Preliminary Schedule&lt;/h1&gt;
+&lt;div&gt;
+&lt;h2&gt;6.1 Original Project Plan&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3&gt;Description&lt;/h3&gt;
+I intend to write a game for an iOS device, this game will take advantage of HCI features to make it comfortable on a mobile device. This project will utilize a web service to store state across devices, store high scores visible by other players, and allow playing against the same AI enemy.
+&lt;h3&gt;General area covered by the project:&lt;/h3&gt;
+&lt;h4&gt;This project covers:&lt;/h4&gt;
+Mobile applications
+
+Graphics
+
+HCI
+
+AI
+
+Persistence
+
+Web services
+
+Gaming
+
+Programming tools&lt;b&gt;&lt;i&gt;: &lt;/i&gt;&lt;/b&gt;
+
+List tools (compiler, database, web server, etc.) to be used
+
+NoSQL – MongoDB or CouchDB
+
+NodeJS – Backend service writing
+
+Typescript – Adds type and object orientation to JavaScript
+
+Express – A web framework for NodeJS to allow structured NodeJS projects
+
+ARC – Memory management in iOS
+
+Tiled – For creating tile maps in games
+
+Sprite framework – For creating graphics and animations on iOS devices
+
+Webserver – Apache, this will be used to expose my web services
+
+Debian – I will host my NodeJS and NoSQL DB on a Debian server, most likely on Rackspace or Amazons AWS.
+
+&lt;b&gt;&lt;i&gt;Learning Challenges:&lt;/i&gt;&lt;/b&gt;
+
+List the main new things (technologies, languages, tools, etc.) that you will have to learn:
+
+Objective-C
+
+NodeJS
+
+Express
+
+JavaScript
+
+Typescript
+
+MongoDB or CouchDB
+
+Tile and Graphic design
+
+Sprite Framework
+
+Path Finding Algorithms
+&lt;h3&gt;Hardware / software platform:&lt;/h3&gt;
+State the hardware, software and platform for development:
+
+Debian
+
+iPad, iPhone
+
+MacBook Pro, OSX Mountain Lion
+
+&amp;nbsp;
+
+&lt;b&gt;&lt;i&gt;Fig 6.2 PERT Chart&lt;/i&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;i&gt; &lt;/i&gt;&lt;/b&gt;
+&lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Task Name&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Duration&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Start&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Finish&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Submit Proposal&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;0&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;--&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;--&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Submit Functional Spec&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;0&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;--&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;--&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Research Objective C&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30~&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1/12/13&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10/1/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Research SpriteKit&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10~&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10/1/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;20/1/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Research iOS Frameworks and tools: Mantle,Typhoon&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;2~&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;20/1/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;22/1/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Create Map&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;8~&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;22/1/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30/1/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Create generic sprite&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1/2/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/2/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Create base classes: unit, building&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/2/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30/2/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Add movement AI&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1/3/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/3/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Add attack AI&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/3/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30/3/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Add Camera Movement&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1/4/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10/4/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Add World generation&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10/4/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;20/4/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Persistence&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;5&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;20/4/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;25/4/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Unit Stats&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;5&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;25/4/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30/4/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Tasks, mining, foraging&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1/5/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/5/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Review&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;15/5/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;30/5/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Submit Project&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;1&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;3/6/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;3/6/14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;Demonstration&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;-&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt; 5/6/14&lt;/td&gt;
+&lt;td valign=&quot;top&quot; width=&quot;120&quot;&gt;10/6/2014&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll Introduction</title>
+   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <updated>2011-12-29T00:00:00+00:00</updated>
+   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;what_is_jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;what_does_jekyll_do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a ruby gem you install on your local system. Once there you can call &lt;code&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files, compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
+
+&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code&gt;_site&lt;/code&gt; folder. The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
+
+&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll_is_not_blogging_software&quot;&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements. This is a common source of confusion when getting started. Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
+
+&lt;h3 id=&quot;why_should_i_care&quot;&gt;Why Should I Care?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is very minimalistic and very efficient. The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server. Traditional dynamic blogs like Wordpress require a database and server-side code. Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
+
+&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
+
+&lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
+
+&lt;li&gt;No internet connection required.&lt;/li&gt;
+
+&lt;li&gt;Ability to publish via git.&lt;/li&gt;
+
+&lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
+
+&lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
+
+&lt;li&gt;No database required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how_jekyll_works&quot;&gt;How Jekyll Works&lt;/h1&gt;
+
+&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
+
+&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples. This information is not intended to specifically teach you how to do anything, rather it is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
+
+&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
+
+&lt;h2 id=&quot;initial_setup&quot;&gt;Initial Setup&lt;/h2&gt;
+
+&lt;p&gt;After &lt;a href=&quot;/index.html#start-now&quot;&gt;installing jekyll&lt;/a&gt; you’ll need to format your website directory in a way jekyll expects. Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
+
+&lt;h3 id=&quot;the_jekyll_application_base_format&quot;&gt;The Jekyll Application Base Format&lt;/h3&gt;
+
+&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+|-- _config.yml
+|-- _includes
+|-- _layouts
+|   |-- default.html
+|   |-- post.html
+|-- _posts
+|   |-- 2011-10-25-open-source-is-good.markdown
+|   |-- 2011-04-26-hello-world.markdown
+|-- _site
+|-- index.html
+|-- assets
+    |-- css
+        |-- style.css
+    |-- javascripts&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt; Stores configuration data.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt; This folder is for partial views.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt; This folder is for the main templates your content will be inserted into. You can have different layouts for different pages or page sections.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt; This folder contains your dynamic content/posts. the naming format is required to be &lt;code&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt; This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt; This folder is not part of the standard jekyll structure. The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory. Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(read more: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Usage&quot;&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll_configuration&quot;&gt;Jekyll Configuration&lt;/h3&gt;
+
+&lt;p&gt;Jekyll supports various configuration options that are fully outlined here: (&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Configuration&quot;&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;content_in_jekyll&quot;&gt;Content in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Content in Jekyll is either a post or a page. These content “objects” get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
+
+&lt;h3 id=&quot;posts_and_pages&quot;&gt;Posts and Pages&lt;/h3&gt;
+
+&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax. Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
+
+&lt;h3 id=&quot;working_with_posts&quot;&gt;Working With Posts&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt; Posts are created by properly formatting a file and placing it the &lt;code&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; A post must have a valid filename in the form &lt;code&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code&gt;_posts&lt;/code&gt; directory. If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file. Additionally, each file must have &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt; prepended to its content. YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt; Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy. Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt; Posts can have tags associated with them as part of their meta-data. Tags may be placed on posts by providing them in the post’s YAML front matter. You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt; Posts may be categorized by providing one or more categories in the YAML front matter. Categories offer more significance over tags in that they can be reflected in the URL path to the given post. Note categories in Jekyll work in a specific way. If you define more than one category you are defining a category hierarchy “set”. Example:&lt;/p&gt;
+&lt;hr /&gt;
+&lt;pre&gt;&lt;code&gt;title :  Hello World
+categories : [lessons, beginner]&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;This defines the category hierarchy “lessons/beginner”. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll. You won’t find “lessons” and “beginner” as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
+
+&lt;h3 id=&quot;working_with_pages&quot;&gt;Working With Pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt; Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; In order to register as a Jekyll page the file must contain &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt;. Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt; Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt; If pages are defined in sub-directories, the path to the page will be reflected in the url. Example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+|-- people
+    |-- bob
+        |-- essay.html&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This page will be available at &lt;code&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt; You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt; Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt; Generating a sitemap is good practice for SEO.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt; A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;templates_in_jekyll&quot;&gt;Templates in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Templates are used to contain a page’s or post’s content. All templates have access to a global site object variable: &lt;code&gt;site&lt;/code&gt; as well as a page object variable: &lt;code&gt;page&lt;/code&gt;. The site variable holds all accessible content and metadata relative to the site. The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt; Templates are created by properly formatting a file and placing it in the &lt;code&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt; Templates should be coded in HTML and contain YAML Front Matter. All templates can contain Liquid code to work with your site’s data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt; There is a special variable in all templates named : &lt;code&gt;content&lt;/code&gt;. The &lt;code&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined. Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;...
+&amp;lt;body&amp;gt;
+  &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
+  &amp;lt;div id=&quot;main&quot;&amp;gt;
+    &amp;#123;{content}&amp;#125;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/body&amp;gt;
+...&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;subtemplates&quot;&gt;Sub-Templates&lt;/h3&gt;
+
+&lt;p&gt;Sub-templates are exactly templates with the only difference being they define another “root” layout/template within their YAML Front Matter. This essentially means a template will render inside of another template.&lt;/p&gt;
+
+&lt;h3 id=&quot;includes&quot;&gt;Includes&lt;/h3&gt;
+
+&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code&gt;_includes&lt;/code&gt; folder. Includes are NOT templates, rather they are just code snippets that get included into templates. In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
+
+&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
+
+&lt;h2 id=&quot;using_liquid_for_templating&quot;&gt;Using Liquid for Templating&lt;/h2&gt;
+
+&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll. This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
+
+&lt;h3 id=&quot;what_is_liquid&quot;&gt;What is Liquid?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href=&quot;http://shopify.com&quot;&gt;Shopify&lt;/a&gt;. Liquid is designed for end-users to be able to execute logic within template files without imposing any security risk on the hosting server.&lt;/p&gt;
+
+&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with your site and post/page data.&lt;/p&gt;
+
+&lt;h3 id=&quot;why_do_we_have_to_use_liquid&quot;&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
+
+&lt;p&gt;GitHub uses Jekyll to power &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
+
+&lt;h3 id=&quot;liquid_is_not_programmerfriendly&quot;&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
+
+&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code. The point being you can’t do jackshit in liquid that hasn’t been allowed explicitly by the implementation. What’s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
+
+&lt;p&gt;In Jekyll’s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins. Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
+
+&lt;p&gt;But rather than look a gift horse in the mouth we are going to suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt; My personal stance is to not invest time trying to hack liquid. It’s really unnecessary &lt;em&gt;from a programmer’s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code) you are better off sticking with ruby. Toward that end I’ve built &lt;a href=&quot;http://github.com/plusjade/mustache-with-jekyll&quot;&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;static_assets&quot;&gt;Static Assets&lt;/h2&gt;
+
+&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages. That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
+
+&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
+
+&lt;h2 id=&quot;how_jekyll_parses_files&quot;&gt;How Jekyll Parses Files&lt;/h2&gt;
+
+&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt; This is done with textile or markdown.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt; This is done with the liquid templating language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt; All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt; These files go in &lt;code&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax. Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt; Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
+
+&lt;h3 id=&quot;formatting_files_for_parsing&quot;&gt;Formatting Files for Parsing.&lt;/h3&gt;
+
+&lt;p&gt;We’ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;. Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty. This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
+
+&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
+&lt;hr /&gt;
+&lt;pre&gt;&lt;code&gt;layout: post
+category : pages
+tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;pre&gt;&lt;code&gt;... contents ...&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block. The data inside the block must be valid YAML.&lt;/p&gt;
+
+&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;defining_layouts_for_posts_and_templates_parsing&quot;&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into. If a template file specifies its own layout, it is effectively being used as a &lt;code&gt;sub-template.&lt;/code&gt; That is to say loading a post file into a template file that refers to another template file with work in the way you’d expect; as a nested sub-template.&lt;/p&gt;
+
+&lt;h2 id=&quot;how_jekyll_generates_the_final_static_files&quot;&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, Jekyll’s job is to generate a static representation of your website. The following is an outline of how that’s done:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt; Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt; Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one big &lt;code&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata. At this stage your site is one big computed ruby object.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt; Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s). Once the post is parsed and liquified inside the the proper layout structure, the layout itself is “liquified”. &lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt; Finally the liquid templates are “rendered”, thereby processing any liquid syntax provided in the templates and saving the final, static representation of the file.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt; Because Jekyll computes the entire site in one fell swoop, each template is given access to a global &lt;code&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you’ll iterate through and format using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
+
+&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
+
+&lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap. You can also read the original documentation here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Template-Data&quot;&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does. As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
+
+&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
+
+&lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
