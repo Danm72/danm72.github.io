@@ -2,111 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcab1976-96ba-40ab-bf9e-891c9411f29c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/3953273590_704e3899d5_m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-114x114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-144x144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-72x72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/dan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/hpstr-jekyll-theme-preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/ps_neutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/triangular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/twitter-card-summary-large-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/witewall_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/coderay.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/dl-menu.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/elements.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2013/12/22/functional-spec.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/archive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tags/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/vendor/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.dlmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/main.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/css/main.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/vendor/modernizr-2.6.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/page.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2013/12/22/project-proposal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/pygments.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/scripts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/socialcount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/typography.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/variables.less" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-01-15-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/core-samples/2011-12-29-jekyll-introduction.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2013/12/22/functional-spec/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2013/12/22/project-proposal/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/darkstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/images/bgs/body.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/css/1.4.0/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/update/2014/01/15/welcome-to-jekyll/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages.html" afterPath="$PROJECT_DIR$/pages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.txt" afterPath="$PROJECT_DIR$/_site/sitemap.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="danm72.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,7 +46,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="514" selection-end="514" vertical-scroll-proportion="0.09090909" vertical-offset="99" max-vertical-offset="825">
+            <state line="6" column="41" selection-start="440" selection-end="440" vertical-scroll-proportion="0.12396694" vertical-offset="0" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -336,7 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1420" height="867" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -350,7 +246,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32510886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32510886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -448,7 +344,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="514" selection-end="514" vertical-scroll-proportion="0.09090909" vertical-offset="99" max-vertical-offset="825">
+        <state line="6" column="41" selection-start="440" selection-end="440" vertical-scroll-proportion="0.12396694" vertical-offset="0" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
