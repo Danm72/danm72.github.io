@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcab1976-96ba-40ab-bf9e-891c9411f29c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/aoe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html" afterPath="$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-22-project-proposal.html" afterPath="$PROJECT_DIR$/_posts/2013-12-22-project-proposal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html" afterPath="$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/22/functional-spec.html" afterPath="$PROJECT_DIR$/_site/2013/12/22/functional-spec.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone.html" afterPath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/22/project-proposal.html" afterPath="$PROJECT_DIR$/_site/2013/12/22/project-proposal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="danm72.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +40,7 @@
       <file leaf-file-name="test.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="80" selection-end="677" vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="435">
+            <state line="3" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -37,7 +49,34 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="46" selection-start="96" selection-end="96" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1290">
+            <state line="5" column="0" selection-start="154" selection-end="186" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1320">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-22-project-proposal.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-project-proposal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="4" selection-start="460" selection-end="460" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="3690">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-01-05-my-transition-from-android-to-iphone.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="4" selection-start="372" selection-end="372" vertical-scroll-proportion="-1.2083334" vertical-offset="271" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-22-functional-spec.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="8" selection-start="486" selection-end="498" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="9720">
               <folding />
             </state>
           </provider>
@@ -55,7 +94,16 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="417" selection-end="440" vertical-scroll-proportion="0.120160215" vertical-offset="0" max-vertical-offset="840">
+            <state line="6" column="18" selection-start="417" selection-end="440" vertical-scroll-proportion="0.12396694" vertical-offset="0" max-vertical-offset="840">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitemap.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
@@ -78,7 +126,10 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/test.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2013-12-22-project-proposal.html" />
+        <option value="$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -130,6 +181,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="danm72.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danm72.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danm72.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,20 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.7730979" vertical-offset="1305" max-vertical-offset="14310">
@@ -376,9 +427,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="749">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="80" selection-end="677" vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="435">
+        <state line="3" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
@@ -392,14 +450,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="46" selection-start="96" selection-end="96" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1290">
+        <state line="5" column="0" selection-start="154" selection-end="186" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="8" selection-start="486" selection-end="498" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="9720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-project-proposal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="4" selection-start="460" selection-end="460" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="372" selection-end="372" vertical-scroll-proportion="-1.2083334" vertical-offset="271" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="417" selection-end="440" vertical-scroll-proportion="0.120160215" vertical-offset="0" max-vertical-offset="840">
+        <state line="6" column="18" selection-start="417" selection-end="440" vertical-scroll-proportion="0.12396694" vertical-offset="0" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
