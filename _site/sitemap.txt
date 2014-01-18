@@ -4,11 +4,11 @@
 /atom.xml
 /feed.xml
 /index.html
-/index.html
 /pages.html
 /rss.xml
 /sitemap.txt
 /tags/
+/test.html
 
 /blog/2014/01/05/my-transition-from-android-to-iphone.html
 /2013/12/22/project-proposal.html

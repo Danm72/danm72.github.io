@@ -1,29 +1,49 @@
 ---
 layout: post-index
-title: Latest Posts
-description: "Describe this nonsense."
+title: Age of Empires Port
+description: "A port of Age of Empires for iOS"
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 image:
   feature: abstract-1.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+        <article class="hentry">
 
-{% for post in paginator.posts %}
+            <header >
+                <h1 class="entry-title">About Me</h1>
+            </header>
+            <div class="entry-content">
+                Hey guys, I'm a Fourth year Computer Science student in DCU.
+
+                I'm aiming to create an iOS port of Age of Empires - Crazy huge I know its unlikely to hit full scope but theres something alluring about attacking a huge project.
+
+                My reasoning behind remaking this game is: I want to justify mobile as a decent platform for modern gaming, RTS and RPGs are ideal for this platform but console and PC is still the main platform. I decided that using a game that is already considered great and adapting it to work well for mobile is the best way to justify the platform, HCI is everything.
+            </div>
+        </article>
+
+
 <article class="hentry">
-  <header>
-    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}</div><!-- /.entry-meta -->
-    {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
-    {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-    {% endif %}
-  </header>
+    <header >
+        <h1 class="entry-title">Recent Posts</h1>
+    </header>
+    {% for post in paginator.posts %}
   <div class="entry-content">
-    {{ post.content }}
+
+    <!--{{ post.content }}-->
+      <div class="entry-meta"><span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}</div><!-- /.entry-meta -->
+      {% if post.link %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+      {% else %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+      {% endif %}
+
   </div><!-- /.entry-content -->
+    {% endfor %}
 </article><!-- /.hentry -->
-{% endfor %}
+
+
+
 
 <div class="pagination">
   {% if paginator.previous_page %}
