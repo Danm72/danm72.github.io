@@ -3,7 +3,6 @@ layout: page
 title: Age of Empires Port for iOS
 tagline: By Dan Malone
 ---
-{% include JB/setup %}
 
 ## About me
 

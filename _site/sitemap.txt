@@ -1,15 +1,15 @@
 
-http://danm72.github.io/archive.html
-http://danm72.github.io/atom.xml
-http://danm72.github.io/categories.html
-http://danm72.github.io/index.html
-http://danm72.github.io/pages.html
-http://danm72.github.io/rss.xml
-http://danm72.github.io/sitemap.txt
-http://danm72.github.io/tags.html
+/about/
+/archive/index.html
+/atom.xml
+/feed.xml
+/index.html
+/index.html
+/pages.html
+/rss.xml
+/sitemap.txt
+/tags/
 
-http://danm72.github.io/jekyll/update/2014/01/15/welcome-to-jekyll
-http://danm72.github.io/blog/2014/01/05/my-transition-from-android-to-iphone
-http://danm72.github.io/2013/12/22/project-proposal
-http://danm72.github.io/2013/12/22/functional-spec
-http://danm72.github.io/lessons/2011/12/29/jekyll-introduction
+/blog/2014/01/05/my-transition-from-android-to-iphone.html
+/2013/12/22/project-proposal.html
+/2013/12/22/functional-spec.html

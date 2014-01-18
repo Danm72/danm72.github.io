@@ -1,7 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcab1976-96ba-40ab-bf9e-891c9411f29c" name="Default" comment="" />
+    <list default="true" id="bcab1976-96ba-40ab-bf9e-891c9411f29c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/3953273590_704e3899d5_m.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/abstract-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-114x114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-144x144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-72x72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/dan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/hpstr-jekyll-theme-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/ps_neutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/triangular.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/twitter-card-summary-large-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/images/witewall_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/coderay.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/dl-menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/elements.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2013/12/22/functional-spec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/about/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/archive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/tags/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/vendor/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.dlmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/vendor/modernizr-2.6.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/page.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2013/12/22/project-proposal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/pygments.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/js/plugins/socialcount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/assets/less/variables.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-01-15-welcome-to-jekyll.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/core-samples/2011-12-29-jekyll-introduction.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2013/12/22/functional-spec/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2013/12/22/project-proposal/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css-social-buttons/sample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/darkstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/images/bgs/body.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/hooligan/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/css/1.4.0/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/themes/twitter/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/blog/2014/01/05/my-transition-from-android-to-iphone/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/update/2014/01/15/welcome-to-jekyll/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/categories.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages.html" afterPath="$PROJECT_DIR$/pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.txt" afterPath="$PROJECT_DIR$/_site/sitemap.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="danm72.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +129,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="0.5270864" vertical-offset="0" max-vertical-offset="683">
+            <state line="23" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="-13.8" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="8" selection-start="3892" selection-end="3892" vertical-scroll-proportion="-9.16" vertical-offset="937" max-vertical-offset="2565">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="514" selection-end="514" vertical-scroll-proportion="0.09090909" vertical-offset="99" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -35,7 +159,7 @@
       <file leaf-file-name="pages.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
+            <state line="17" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -44,7 +168,7 @@
       <file leaf-file-name="2013-12-22-functional-spec.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="9645">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9645">
               <folding />
             </state>
           </provider>
@@ -53,7 +177,7 @@
       <file leaf-file-name="2014-01-05-my-transition-from-android-to-iphone.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="900">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
               <folding />
             </state>
           </provider>
@@ -73,8 +197,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pages.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -109,6 +234,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,9 +253,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danm72.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danm72.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,16 +278,15 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/_site/images" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -159,15 +297,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -192,20 +338,20 @@
     <frame x="0" y="22" width="1420" height="867" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32510886" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32510886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -225,37 +371,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/core-samples/2011-12-29-jekyll-introduction.md">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="6255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="429" selection-end="429" vertical-scroll-proportion="-1.6585014" vertical-offset="1346" max-vertical-offset="2040">
+        <state line="24" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
+        <state line="19" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
@@ -267,9 +392,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-05-my-transition-from-android-to-iphone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-12-22-functional-spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.7730979" vertical-offset="1305" max-vertical-offset="14310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="0.5270864" vertical-offset="0" max-vertical-offset="683">
+        <state line="23" column="0" selection-start="918" selection-end="918" vertical-scroll-proportion="-13.8" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="8" selection-start="3892" selection-end="3892" vertical-scroll-proportion="-9.16" vertical-offset="937" max-vertical-offset="2565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="514" selection-end="514" vertical-scroll-proportion="0.09090909" vertical-offset="99" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
